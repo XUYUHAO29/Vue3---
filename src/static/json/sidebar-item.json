@@ -1,0 +1,131 @@
+[
+    {
+        "id": "01",
+        "text":"推荐",
+        "router-name":"recommend",
+        "router-path":"",
+        "icon":"",
+        "children":[]
+    },
+    {
+        "id": "02",
+        "text":"电视剧",
+        "router-name":"",
+        "router-path":"",
+        "icon":"",
+        "children":[]
+    },
+    {
+        "id": "03",
+        "text":"电影",
+        "router-name":"",
+        "router-path":"",
+        "icon":"",
+        "children":[]
+    },
+    {
+        "id": "04",
+        "text":"云影院",
+        "router-name":"",
+        "router-path":"",
+        "icon":"",
+        "children":[]
+    },
+    {
+        "id": "05",
+        "text":"综艺",
+        "router-name":"",
+        "router-path":"",
+        "icon":"",
+        "children":[]
+    },
+    {
+        "id": "06",
+        "text":"儿童",
+        "router-name":"",
+        "router-path":"",
+        "icon":"",
+        "children":[]
+    },
+    {
+        "id": "07",
+        "text":"动漫",
+        "router-name":"",
+        "router-path":"",
+        "icon":"",
+        "children":[]
+    },
+    {
+        "id": "08",
+        "text":"游戏",
+        "router-name":"",
+        "router-path":"",
+        "icon":"",
+        "children":[]
+    },
+    {
+        "id": "09",
+        "text":"纪录片",
+        "router-name":"",
+        "router-path":"",
+        "icon":"",
+        "children":[]
+    },
+    {
+        "id": "10",
+        "text":"分割",
+        "router-name":"",
+        "router-path":"",
+        "icon":"",
+        "children":[]
+    },
+    {
+        "id": "11",
+        "text":"体育",
+        "router-name":"",
+        "router-path":"",
+        "icon":"",
+        "children":[]
+    },
+    {
+        "id": "12",
+        "text":"知识",
+        "router-name":"",
+        "router-path":"",
+        "icon":"",
+        "children":[]
+    },
+    {
+        "id": "13",
+        "text":"直播",
+        "router-name":"",
+        "router-path":"",
+        "icon":"",
+        "children":[]
+    },
+    {
+        "id": "14",
+        "text":"随刻热点",
+        "router-name":"",
+        "router-path":"",
+        "icon":"",
+        "children":[]
+    },
+    {
+        "id": "15",
+        "text":"新片",
+        "router-name":"",
+        "router-path":"",
+        "icon":"",
+        "children":[]
+    },
+    {
+        "id": "16",
+        "text":"风云榜",
+        "router-name":"",
+        "router-path":"",
+        "icon":"",
+        "children":[]
+    }
+
+]

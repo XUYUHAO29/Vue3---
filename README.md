@@ -1,2 +1,24 @@
-技术选型：Vue3全家桶 + element-plus + electron + axios + pinia
-目前进度：整体结构搭建完成....
+# aurora
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
