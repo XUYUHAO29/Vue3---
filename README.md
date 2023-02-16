@@ -1,1 +1,2 @@
-# Vue3---
+技术选型：Vue3全家桶 + element-plus + electron + axios + pinia
+目前进度：整体结构搭建完成....
